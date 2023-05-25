@@ -19,6 +19,9 @@ public:
     };
 };
 
+
+
+
 std::vector<Titulo> lerTitulosDoCSV(const std::string& nomeArquivo){
     //
     std::vector<Titulo> titulos;
